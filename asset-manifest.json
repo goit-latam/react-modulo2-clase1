@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-modulo2-clase1/static/css/main.7cda0caf.css",
+    "main.js": "/react-modulo2-clase1/static/js/main.02a82091.js",
+    "index.html": "/react-modulo2-clase1/index.html",
+    "main.7cda0caf.css.map": "/react-modulo2-clase1/static/css/main.7cda0caf.css.map",
+    "main.02a82091.js.map": "/react-modulo2-clase1/static/js/main.02a82091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cda0caf.css",
+    "static/js/main.02a82091.js"
+  ]
+}
